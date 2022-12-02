@@ -1,6 +1,6 @@
 # food_sellers_app
 
-A new Flutter project.
+The name of the app is foodex.The first page is the login page wherin we have to register the user(which is the chef) .After the register, the user is authenticated using firebase and then the app shows the dishes available.
 
 ## Getting Started
 
