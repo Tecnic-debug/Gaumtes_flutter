@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105203547129",
+    "project_id": "foodex-310e8",
+    "storage_bucket": "foodex-310e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105203547129:android:667eb50a0e234c81fc9b28",
+        "android_client_info": {
+          "package_name": "com.example.food_sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105203547129-tnjqvpu8p577lsrucolgoq5q2iffm3n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFIQF1jtI4nrZVkQZjXG7EdJhzbK7uVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105203547129-tnjqvpu8p577lsrucolgoq5q2iffm3n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
